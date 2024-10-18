@@ -48,14 +48,7 @@ StudyNotion is a comprehensive e-learning platform built with React.js, designed
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/yourusername/studynotion/issues).
 
-## 📝 License
+LinkedIn - https://www.linkedin.com/in/prasadgaikwad29
 
-This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
-
-## 👤 Contact
-
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
-
-Project Link: [https://github.com/yourusername/studynotion](https://github.com/yourusername/studynotion)
+Project Link: https://github.com/PrasadGaikwad29/Top-Courses-Website-ReactJS
